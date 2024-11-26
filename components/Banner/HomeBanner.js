@@ -46,7 +46,7 @@ export const HomeBanner = () => {
                 <MotionBTTContainer transition={{ delay: 0.8, duration: 0.5 }}>
                     <div className="page-banner--image">
                         <Image
-                            src="/main.jpg"
+                            src="/https://media.istockphoto.com/id/1301592082/photo/beautiful-meadow-field-with-fresh-grass-and-yellow-dandelion-flowers-in-nature.jpg?s=612x612&w=0&k=20&c=fbTwYcoItgf2lc6fMx6d53s7qxW8CNVKr_RXVaVbnZM="
                             width={1024}
                             height={680}
                             alt="Page Banner"
