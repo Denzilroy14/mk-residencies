@@ -46,7 +46,7 @@ export const HomeBanner = () => {
                 <MotionBTTContainer transition={{ delay: 0.8, duration: 0.5 }}>
                     <div className="page-banner--image">
                         <Image
-                            src="/main.jpg"
+                            src="C:\Users\Win11 Pro 22H2\OneDrive\Desktop\Whatsup pics"
                             width={1024}
                             height={680}
                             alt="Page Banner"
